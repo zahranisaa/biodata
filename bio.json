@@ -1,0 +1,27 @@
+{
+    "nama" :"Zahra Khoirunnisa",
+    "tempat_lahir" : "Bandung",
+    "tanggal_lahir" : "2009-3-5",
+    "alamat" : {
+        "jalan" : "Permata Kopo 2",
+        "desa" : "Saluyu",
+        "kecamatan" : "Margahayu Selatan"
+    },
+    "hobi" : [
+        "Gaming",
+        "Cookng",
+        "Music"
+
+    ],
+    "contact" :{
+        "email" : "nanavareshuu@gmail.com",
+        "whatsapp" : "+62 882-0003-93835",
+        "github" : "zahraanisa",
+        "instagram" : "nzakanxyv"
+    },
+
+    "my_love" : [
+
+        
+    ]
+}
