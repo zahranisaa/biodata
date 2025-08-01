@@ -1,0 +1,73 @@
+[{
+        "nama" : "Zhuxin",       
+        "jenis-kelamin" : "Female", 
+        "role" : "Mage",
+        "lane" : "Mid Lane",
+        "winrate" : "51,41%",
+        "skil" : {
+            "skil_1" : "Crimson Butterfly",
+            "skil_2" : "Fluttering Grace",
+            "skil_3" : "Latern Flare",
+            "skli_4" : "Crimson Beacon"
+        }
+
+ },
+
+ {
+        "nama" : "Soyuo",       
+        "jenis-kelamin" : "Male", 
+        "role" : "Assasin, Fighter",
+        "lane" : "Jungler",
+        "winrate" : "47,66%",
+        "skil" : {
+            "skil_1" : "Transient Immortal",
+            "skil_2" : "Blade Surge",
+            "skil_3" : "Soul Server",
+            "skli_4" : "Evil Queller"
+        }
+ },
+
+ {
+        "nama" : "Lukas",       
+        "jenis-kelamin" : "Male", 
+        "role" : "Assasin, Fighter",    
+        "lane" : "Exp, Fighter",
+        "winrate" : "48,15%",
+        "skil" : {
+            "skil_1" : "Hero Resolve",
+            "skil_2" : "Flash Combo",
+            "skil_3" : "Flash Step",
+            "skli_4" : "Unleash The Beats"
+        }
+ },
+
+ {
+        "nama" : "Kalea",       
+        "jenis-kelamin" : "Female", 
+        "role" : "Roam, Fighter",
+        "lane" : "Roam, Exp",
+        "winrate" : "49,51%",
+        "skil" : {
+            "skil_1" : "Surge Of Life",
+            "skil_2" : "Wavebreaker",
+            "skil_3" : "Tidal Strike",
+            "skli_4" : "Tsunami Slam"
+        }
+ },
+
+ {
+        "nama" : "Zetian",       
+        "jenis-kelamin" : "Female", 
+        "role" : "Mage",
+        "lane" : "Mid Lane",
+        "winrate" : "49,30%",
+        "skil" : {
+            "skil_1" : "Celestial Armament",
+            "skil_2" : "Phoenix Strike",
+            "skil_3" : "Phoenix Descent",
+            "skli_4" : "furry of the Phoenix"
+        }
+ }
+
+
+]
